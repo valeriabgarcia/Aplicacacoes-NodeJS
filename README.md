@@ -2,13 +2,14 @@
 
 Usar o comando `npm init` para criar um arquivo package.json para seu aplicativo
 
--------------
-
-### Hello world
 
 Express é uma estrutura mínima e flexível de aplicativos da web Node.js que fornece um conjunto robusto de recursos. Ele fornece uma série de ferramentas para colocar seu app web funcionando.
 
 Instale o Express no diretório usando `npm install express`
+
+-------------
+
+### Hello world
 
 Usar a biblioteca Express com a função require() em seu arquivo hello.js 
 
