@@ -1,4 +1,4 @@
-## Criar um diretório para seu novo aplicativo e navegue até ele
+## Criar um diretório para seu novo aplicativo e naveguar até ele
 
 Usar o comando `npm init` para criar um arquivo package.json para seu aplicativo
 
